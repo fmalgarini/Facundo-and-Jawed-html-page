@@ -1,0 +1,15 @@
+#nav-bar {
+    display: inline;
+  }
+
+  @media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+#email {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
